@@ -14,5 +14,14 @@
 
   2- Return the stock with the greatest percentage increase, greatest percentage decrease, and greatest total volume 
 
+<p align="center">
+  <img src="2018.png" alt="images" width="600"/>
+</p>
 
+<p align="center">
+  <img src="2019.png" alt="images" width="600"/>
+</p>
 
+<p align="center">
+  <img src="2020.png" alt="images" width="600"/>
+</p>
