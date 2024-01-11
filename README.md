@@ -1,5 +1,5 @@
 # Multiple Stock Year Data Analysis
-## Using VBA scripting to analyze generated stock market data, and highlight results based on values.
+### Using VBA scripting to analyze generated stock market data, and highlight results based on values.
 
 
 
